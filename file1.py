@@ -1,2 +1,2 @@
-printf("this is kiran")
-printf("from Andhra")
+print("this is kiran")
+print("from Andhra")
